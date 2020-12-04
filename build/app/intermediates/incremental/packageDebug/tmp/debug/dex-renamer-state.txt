@@ -1,0 +1,4 @@
+#Fri Dec 04 20:59:56 ICT 2020
+base.0=F\:\\Project\\Belajar\\RecipeApps\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
